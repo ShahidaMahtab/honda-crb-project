@@ -1,4 +1,40 @@
+/* google fonts */
+body {
+ font-family: 'Poppins', sans-serif;
+}
+
 .bg-honda {
  background: #264653;
+}
 
+.btn-honda {
+ color: white;
+ background: tomato;
+ border: 0;
+ padding: 0.5rem 0.9rem;
+}
+
+.hero-img img {
+ width: 542px;
+ height: 410px;
+}
+
+.featured-img img {
+ width: 288px;
+ height: 243px;
+}
+
+.grayscale-img {
+ filter: grayscale(100%);
+}
+
+.orange {
+ color: orangered;
+}
+.user-img img{
+ width: 149px;
+ height: 149px;
+}
+.yellow-star{
+ color: orange;
 }
