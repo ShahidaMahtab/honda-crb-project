@@ -12,12 +12,10 @@ body {
  background: tomato;
  border: 0;
  padding: 0.5rem 0.9rem;
+ text-transform: capitalize;
 }
 
-.hero-img img {
- /* width: 552px;
- height: 447px; */
-}
+
 
 .featured-img img {
  width: 288px;
@@ -31,10 +29,16 @@ body {
 .orange {
  color: orangered;
 }
-.user-img img{
+
+.user-img img {
  width: 149px;
  height: 149px;
 }
-.yellow-star{
+
+.yellow-star {
  color: orange;
+}
+
+.bg-brand {
+ background: #f3f0f0;
 }
