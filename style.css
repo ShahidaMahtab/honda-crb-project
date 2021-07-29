@@ -5,10 +5,11 @@ body {
 ul{
 list-style-type: none;
 }
+/* hero banner */
 .bg-honda {
  background: #264653;
 }
-
+/* button color */
 .btn-honda {
  color: white;
  background: tomato;
@@ -16,28 +17,28 @@ list-style-type: none;
  padding: 0.5rem 0.9rem;
  text-transform: capitalize;
 }
-
+/* gray scaling feature image */
 .grayscale-img {
  filter: grayscale(100%);
 }
-
+/* text color */
 .orange {
  color: orangered;
 }
-
+/* happy client says */
 .user-img img {
  width: 149px;
  height: 149px;
 }
-
+/* font color */
 .yellow-star {
  color: orange;
 }
-
+/* popular brand background */
 .bg-brand {
  background: #f3f0f0;
 }
-
+/* footer background */
 footer {
  background: #0B0D17;
 }
