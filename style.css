@@ -2,7 +2,9 @@
 body {
  font-family: 'Poppins', sans-serif;
 }
-
+ul{
+list-style-type: none;
+}
 .bg-honda {
  background: #264653;
 }
@@ -13,13 +15,6 @@ body {
  border: 0;
  padding: 0.5rem 0.9rem;
  text-transform: capitalize;
-}
-
-
-
-.featured-img img {
- width: 288px;
- height: 243px;
 }
 
 .grayscale-img {
@@ -41,4 +36,8 @@ body {
 
 .bg-brand {
  background: #f3f0f0;
+}
+
+footer {
+ background: #0B0D17;
 }
